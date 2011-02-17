@@ -1,0 +1,34 @@
+Personality
+    Disposition (Good-Evil)
+    Alignment (Lawful-Chaotic)
+    Preferred mode of play
+Physical factors
+    Description
+        Hair
+        Eyes
+        Size
+        Notable features not shared by race
+        Gender
+    Race
+        Characteristics
+        Favourite racial
+    Inventory
+        Worn
+            Helmet
+            Suit
+            Shoes
+            Shield
+        Wielded
+            Weapon
+            Off-hand
+        Usable
+            Potions
+            Scrolls
+        Miscellany
+            Unique items
+            Clan keys
+            Autoloads
+Relationships and skills
+    Guild
+    Previous existences
+    Clan
