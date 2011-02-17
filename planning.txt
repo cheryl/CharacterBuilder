@@ -1,40 +1,41 @@
 horiz slide
     tabs
         accordion
-            horizontal slide
-Personal factors
+Personal info
     Personality
         Disposition (Good-Evil)
         Alignment (Lawful-Chaotic)
         Preferred mode of play
-    Physical aspects
-        Description
-            Hair
-            Eyes
-            Size
-            Notable features not shared by race
-            Gender
-        Race
-            Characteristics
-            Favourite racial
-Non-personal factors
-    Inventory
-        Worn
-            Helmet
-            Suit
-            Shoes
-            Shield
-        Wielded
-            Weapon
-            Off-hand
-        Usable
-            Potions
-            Scrolls
-        Miscellany
-            Unique items
-            Clan keys
-            Autoloads
-    Relationships and skills
-        Guild
-        Previous existences
-        Clan
+    Description
+        Hair
+        Eyes
+        Size
+        Notable features not shared by race
+        Gender
+    Race
+        Characteristics
+        Favourite racial
+Relationships
+    Community
+        Guild and skills
+        Clan and role
+        Famous [astaria] quotes
+    Character notes
+        Previous/concurrent characters
+        PKs
+Inventory
+    Worn
+        Helmet
+        Suit
+        Shoes
+        Shield
+    Wielded
+        Weapon
+        Off-hand
+    Usable
+        Potions
+        Scrolls
+    Miscellany
+        Unique items
+        Clan keys
+        Autoloads
