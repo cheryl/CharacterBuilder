@@ -385,11 +385,21 @@ input[type="submit"]{
 **                       **
 **************************/
 
-div.accordion {
+.accordion {
     width: 200px;
 }
 
-div.tabs {
-    width: 300px;
-    padding-left: 0;
+.tabs {
+    width: 235px;
 }
+
+/* re-styling custom ui 
+.ui-tabs .ui-tabs-nav li a {
+    line-height: 27px;
+    padding: .2em .5em;
+}
+
+.ui-tabs .ui-tabs-panel {
+    padding: .8em 1em;
+}
+*/
