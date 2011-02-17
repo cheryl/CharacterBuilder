@@ -1,17 +1,23 @@
-Personality
-    Disposition (Good-Evil)
-    Alignment (Lawful-Chaotic)
-    Preferred mode of play
-Physical factors
-    Description
-        Hair
-        Eyes
-        Size
-        Notable features not shared by race
-        Gender
-    Race
-        Characteristics
-        Favourite racial
+horiz slide
+    tabs
+        accordion
+            horizontal slide
+Personal factors
+    Personality
+        Disposition (Good-Evil)
+        Alignment (Lawful-Chaotic)
+        Preferred mode of play
+    Physical aspects
+        Description
+            Hair
+            Eyes
+            Size
+            Notable features not shared by race
+            Gender
+        Race
+            Characteristics
+            Favourite racial
+Non-personal factors
     Inventory
         Worn
             Helmet
@@ -28,7 +34,7 @@ Physical factors
             Unique items
             Clan keys
             Autoloads
-Relationships and skills
-    Guild
-    Previous existences
-    Clan
+    Relationships and skills
+        Guild
+        Previous existences
+        Clan

@@ -389,7 +389,7 @@ div.accordion {
     width: 200px;
 }
 
-div#tabs {
+div.tabs {
     width: 250px;
     padding-left: 0;
 }
