@@ -8,8 +8,12 @@ $(document).ready(function () {
     // of the container
     var horizontal = true;
 
+    // collect the scroll object, at the same time apply the hidden overflow
+    // to remove the default scrollbars that will appear
+    var $scroll = $('#slider .scroll').css('overflow', 'hidden');
+
     // float the panels left if we're going horizontal
-    if (horizontal) {
+    if (!horizontal) {
         $panels.css({
             'float' : 'left',
             'position' : 'relative' // IE fix to ensure overflow is hidden
@@ -18,10 +22,6 @@ $(document).ready(function () {
         // calculate a new width for the container (so it holds all panels)
         $container.css('width', $panels[0].offsetWidth * $panels.length);
     }
-
-    // collect the scroll object, at the same time apply the hidden overflow
-    // to remove the default scrollbars that will appear
-    var $scroll = $('#slider .scroll').css('overflow', 'hidden');
 
 /*
     // apply our left + right buttons
