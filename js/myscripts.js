@@ -1,21 +1,16 @@
 $(document).ready(function() {
     $(".accordion").accordion({autoHeight: false, header: "h3"});
     $(".tabs").tabs();
-    $(".meerkat").hide();
+    $('.meerkat').hide();
 });
 
-$('#btn').click(function () {
-    $('.meerkat').slide();
-    /*
+$("#btn").click(function() {
     $('.meerkat').meerkat({
-        height: '100%',
-        width: '150px',
-        position: 'left',
+        width: '284px',
+        height: '100px',
+        position: 'right',
         close: '.close-meerkat',
         animationIn: 'slide',
-        animationSpeed: 500,
-        easingIn: 'EaseIn'
+        animationSpeed: 500
     });
-    */
 });
-
