@@ -385,12 +385,11 @@ input[type="submit"]{
 **                       **
 **************************/
 
-.accordion {
-    width: 200px;
+.accordion div {
 }
 
 .tabs {
-    width: 235px;
+    width: 285px;
 }
 
 /* re-styling custom ui 
